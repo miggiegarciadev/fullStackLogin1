@@ -1,0 +1,14 @@
+body{
+  padding-top: 60px;
+  word-wrap:break-word;
+  overflow: auto;
+  background: url(img/signup.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: bold;
+}
+
+.col-sm-6{
+  margin-top: 10px;
+  background-color:rgba(253, 253, 150, .45);
+}

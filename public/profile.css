@@ -1,0 +1,38 @@
+body {
+  word-wrap: break-word;
+  overflow: auto;
+  background: url(img/profile.jpeg);
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  font-weight: bold;
+}
+
+.container {
+  padding-top: 80px;
+}
+
+.page-header {
+  background-color: rgba(253, 253, 150, .69);
+}
+
+.row {
+  background-color: rgba(255, 255, 255, .125);
+  margin-top: 10px;
+}
+
+.well {
+  /* width:100%; */
+  background-color: lavender;
+  /* rgba(253, 253, 150, .45); */
+}
+
+.col-sm-6 {
+  padding-top: 20px;
+  margin-top: 10px;
+  width: 100%;
+  background-color: rgba(253, 253, 150, .45);
+}
+
+#solo {
+  width: 100%;
+}
